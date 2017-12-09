@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails new workspace
 
-Things you may want to cover:
+cd workspace
 
-* Ruby version
+git add -A
 
-* System dependencies
+git commit -m "rails new workspace"
 
-* Configuration
+git push
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###################################
